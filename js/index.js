@@ -9,7 +9,7 @@ navOpen.addEventListener('click', () => {
 });
 
 navClose.addEventListener('click', () => {
-  menuElement.classList.add('none');
+  menuElement.classList.add('hidden');
   document.querySelector('body').classList.remove('overflow-hidden');
 });
 
