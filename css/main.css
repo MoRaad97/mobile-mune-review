@@ -597,6 +597,7 @@ textarea {
 .close-btn-wrapper .close-btn {
   border: none;
   background-color: inherit;
+  transform: translate(-261px, 227px);
 }
 
 .close-btn-wrapper .close-btn:hover {
